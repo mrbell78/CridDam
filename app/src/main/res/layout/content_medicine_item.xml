@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_7sdp"
+    android:background="@color/colorAsh">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAsh">
+
+        <LinearLayout
+            android:id="@+id/ll_medi_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:background="@color/colorRed">
+
+            <TextView
+                android:id="@+id/tv_medicine_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:background="@color/colorRed"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/_5sdp"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_14sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_edit_medicine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.7"
+                android:background="@color/colorRed"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/edit"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_14sdp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_medicine_image_my_medicine"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_logo"
+            android:scaleType="fitCenter"
+            android:layout_below="@+id/ll_medi_title"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:adjustViewBounds="true"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/tv_medicine_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/iv_medicine_image_my_medicine"
+            android:layout_below="@id/ll_medi_title"
+            android:layout_margin="@dimen/_7sdp"
+            android:text="Medicine Time: 8.10"
+            android:textColor="@android:color/white"
+            android:visibility="gone"
+            android:textSize="@dimen/_12sdp" />
+
+        <TextView
+            android:id="@+id/tv_medicine_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_medicine_time"
+            android:layout_margin="@dimen/_7sdp"
+            android:layout_toStartOf="@+id/iv_medicine_image_my_medicine"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_12sdp" />
+
+        <TextView
+            android:id="@+id/tv_medicine_measurement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_medicine_type"
+            android:layout_toStartOf="@+id/iv_medicine_image_my_medicine"
+            android:layout_marginStart="@dimen/_7sdp"
+            android:layout_marginLeft="@dimen/_7sdp"
+            android:layout_marginBottom="@dimen/_7sdp"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_12sdp" />
+
+        <TextView
+            android:id="@+id/tv_medicine_time_my_medicine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/iv_medicine_image_my_medicine"
+            android:layout_below="@id/tv_medicine_measurement"
+            android:layout_marginStart="@dimen/_7sdp"
+            android:layout_marginLeft="@dimen/_7sdp"
+            android:layout_marginBottom="@dimen/_7sdp"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_12sdp" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

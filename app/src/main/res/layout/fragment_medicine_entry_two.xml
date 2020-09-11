@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white"
+        tools:context=".medicineEntry.fragments.MedicineEntryTwoFragment">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:background="@color/colorRed"
+            android:gravity="center"
+            android:text="@string/enter_new_medicine_step_two"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="@string/scan_medicine_name"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_13sdp" />
+
+<!--        <com.budiyev.android.codescanner.CodeScannerView-->
+<!--            android:id="@+id/scanner_view"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="@dimen/_170sdp"-->
+<!--            android:layout_marginStart="@dimen/_10sdp"-->
+<!--            android:layout_marginLeft="@dimen/_10sdp"-->
+<!--            android:layout_marginTop="@dimen/_10sdp"-->
+<!--            android:layout_marginEnd="@dimen/_10sdp"-->
+<!--            android:layout_marginRight="@dimen/_10sdp"-->
+<!--            app:autoFocusButtonColor="@android:color/white"-->
+<!--            app:autoFocusButtonVisible="true"-->
+<!--            app:flashButtonColor="@android:color/white"-->
+<!--            app:flashButtonVisible="true"-->
+<!--            app:frameAspectRatioHeight="1"-->
+<!--            app:frameAspectRatioWidth="1"-->
+<!--            app:frameColor="@android:color/white"-->
+<!--            app:frameCornersRadius="0dp"-->
+<!--            app:frameCornersSize="50dp"-->
+<!--            app:frameSize="0.75"-->
+<!--            app:frameThickness="2dp"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent"-->
+<!--            app:maskColor="#77000000" />-->
+
+        <ImageView
+            android:id="@+id/iv_medicine_image"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_100sdp"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:src="@drawable/qrpic"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:gravity="start"
+            android:text="@string/medicine_name"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_13sdp" />
+
+        <EditText
+            android:id="@+id/et_medicine_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:hint="@string/ex_renidine"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/rounded_edittext"
+            android:inputType="text"
+            android:paddingStart="7dp"
+            android:paddingLeft="7dp"
+            tools:ignore="Autofill,LabelFor,RtlHardcoded,RtlSymmetry" />
+
+        <Button
+            android:id="@+id/btn_medicine_entry_step_two_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:background="@drawable/rounded_button"
+            android:text="@string/next"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</ScrollView>

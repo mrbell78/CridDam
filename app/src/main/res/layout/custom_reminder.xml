@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/_6sdp"
+    android:background="@drawable/rounded_back_noti">
+
+    <ImageView
+        android:id="@+id/iv_icon_notification"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:src="@drawable/ic_logo"/>
+
+    <TextView
+        android:id="@+id/tv_notifi_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"
+        android:layout_toEndOf="@+id/iv_icon_notification"
+        android:layout_toRightOf="@+id/iv_icon_notification"
+        android:text="@string/it_s_time_to_take_your_medicine"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_12sdp"
+        android:textStyle="bold"/>
+
+    <RelativeLayout
+        android:layout_below="@+id/tv_notifi_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/btn_take_medicine_ok"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:background="@color/colorGreen"
+            android:text="@string/ok"
+            android:gravity="center"
+            android:textSize="@dimen/_10sdp"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/btn_will_take_medicine_later"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_toEndOf="@id/btn_take_medicine_ok"
+            android:layout_toRightOf="@id/btn_take_medicine_ok"
+            android:background="@color/colorAccent"
+            android:text="@string/take_later"
+            android:gravity="center"
+            android:paddingStart="@dimen/_5sdp"
+            android:paddingEnd="@dimen/_5sdp"
+            android:textSize="@dimen/_10sdp"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+</RelativeLayout>

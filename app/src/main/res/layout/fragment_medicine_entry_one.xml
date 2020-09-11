@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context=".medicineEntry.fragments.MedicineEntryOneFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:background="@color/colorRed"
+            android:gravity="center"
+            android:text="@string/enter_new_medicine"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="@string/select_medicine_type"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_13sdp" />
+
+        <RadioGroup
+            android:id="@+id/rg_medicine_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/_10sdp">
+
+            <RadioButton
+                android:id="@+id/rb_syrap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/syrup" />
+
+            <RadioButton
+                android:id="@+id/rb_capsule"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/capsule" />
+
+            <RadioButton
+                android:id="@+id/rb_tablet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tablet" />
+
+            <RadioButton
+                android:id="@+id/rb_injection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/injection" />
+
+            <RadioButton
+                android:id="@+id/rb_suppository"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/suppository" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_medicine_entry_step_one_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:background="@drawable/rounded_button"
+            android:text="@string/next"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+</ScrollView>

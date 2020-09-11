@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d589bc31-f7e7-469a-9e2b-29acd16bb115" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="bellsphone_API_25" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="G:\kambilhelthapk\kambilkey.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/DynamicLanguage" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YObep4FCkqPlGhjgLlKukfGr4o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="DEBUGGABLE_DEVICE" value="huawei-ane_lx2-WCY4C18526009914" />
+    <property name="DEBUGGABLE_PROCESS" value="com.criddam.medicine" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="bellsphone_API_25" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-24T20:28:56.125Z" />
+    <property name="ExportApk.ApkPath" value="G:\kambailhelth\CridDam\app" />
+    <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.criddam.medicine.homePage.ui.home.viewModels" />
+      <recent name="com.criddam.medicine.homePage.adapters" />
+      <recent name="com.criddam.medicine.forgetPassword.views" />
+      <recent name="com.criddam.medicine.registration.views" />
+      <recent name="com.criddam.medicine.login.views" />
+    </key>
+    <key name="android.template.-5007155">
+      <recent name="com.criddam.medicine.rubelportion" />
+    </key>
+    <key name="android.template.-1138006738">
+      <recent name="com.criddam.medicine.rubelportion" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.criddam.medicine.forgetPassword" />
+      <recent name="com.criddam.medicine.homePage" />
+      <recent name="com.criddam.medicine.registration" />
+      <recent name="com.criddam.medicine.login" />
+      <recent name="com.criddam.medicine.loginRegistration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/criddam/medicine/medicineEntry/fragments" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.criddam.medicine.rubelportion" />
+      <recent name="com.criddam.medicine.others" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\kambailhelth\CridDam\app\src\main\res\drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d589bc31-f7e7-469a-9e2b-29acd16bb115" name="Default Changelist" comment="" />
+      <created>1580189850886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580189850886</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1580233240771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580233240771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="registration api integration done">
+      <created>1580463030796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580463030797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Medicine entry second step done">
+      <created>1580495688622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580495688622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Medicine Entry last step design done">
+      <created>1580582187537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580582187537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Medicine entry solved">
+      <created>1580646379615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580646379615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all medicine api task done">
+      <created>1580730699465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580730699466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="single user medicine api task done">
+      <created>1580756883809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580756883809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Background job service implemented">
+      <created>1580840255525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580840255526</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Icon created for app">
+      <created>1580923753708</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580923753708</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Registration to home page taken directly">
+      <created>1581010444492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581010444492</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Notification playing and stopping done">
+      <created>1581103780772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581103780772</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Drug interaction added">
+      <created>1581189287166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581189287167</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edit profile created and camera option added in medicine entry">
+      <created>1581248539311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581248539311</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Image send in medicine api">
+      <created>1581261556132</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581261556132</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Image checking done">
+      <created>1581262534014</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581262534014</updated>
+    </task>
+    <task id="LOCAL-00016" summary="home popup done for showing all medicines">
+      <created>1581444743812</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444743812</updated>
+    </task>
+    <task id="LOCAL-00017" summary="home popup done for showing all medicines">
+      <created>1581444773108</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444773108</updated>
+    </task>
+    <task id="LOCAL-00018" summary="home popup done for showing all medicines">
+      <created>1581444775235</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444775235</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Popup done for service trigger in home activity">
+      <created>1581494824264</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581494824264</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Dynamic voice marge in master branch">
+      <created>1581501223687</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581501223687</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changing branch">
+      <created>1581508996877</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1581508996877</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changing branch">
+      <created>1581509583561</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581509583561</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changing branch">
+      <created>1581511609267</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1581511609267</updated>
+    </task>
+    <task id="LOCAL-00024" summary="All feature design done">
+      <created>1581933458876</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581933458876</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Edit profile page created">
+      <created>1582911511159</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1582911511159</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Edit profile page updated">
+      <created>1582990437961</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1582990437962</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Alarm updated">
+      <created>1583077964186</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1583077964186</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Alarm service added">
+      <created>1583166605661</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1583166605661</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Job service enabled">
+      <created>1583336201207</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1583336201207</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Firebase and alarm done. Now 2 min later task left">
+      <created>1583521741682</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1583521741682</updated>
+    </task>
+    <task id="LOCAL-00031" summary="1 min interval added">
+      <created>1583594925314</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1583594925314</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Dialog added for loop">
+      <created>1583683774319</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1583683774320</updated>
+    </task>
+    <task id="LOCAL-00033" summary="updated alarm type">
+      <created>1583768428025</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1583768428025</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Checkbox dialog back">
+      <created>1583771165776</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1583771165776</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2 min interval enabled">
+      <created>1583942211971</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1583942211971</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Code refactored">
+      <created>1593265314044</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1593265314044</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Background job service implemented" />
+    <MESSAGE value="Icon created for app" />
+    <MESSAGE value="Registration to home page taken directly" />
+    <MESSAGE value="Notification playing and stopping done" />
+    <MESSAGE value="Drug interaction added" />
+    <MESSAGE value="Edit profile created and camera option added in medicine entry" />
+    <MESSAGE value="Image send in medicine api" />
+    <MESSAGE value="Image checking done" />
+    <MESSAGE value="home popup done for showing all medicines" />
+    <MESSAGE value="Popup done for service trigger in home activity" />
+    <MESSAGE value="Dynamic voice marge in master branch" />
+    <MESSAGE value="changing branch" />
+    <MESSAGE value="All feature design done" />
+    <MESSAGE value="Edit profile page created" />
+    <MESSAGE value="Edit profile page updated" />
+    <MESSAGE value="Alarm updated" />
+    <MESSAGE value="Alarm service added" />
+    <MESSAGE value="Job service enabled" />
+    <MESSAGE value="Firebase and alarm done. Now 2 min later task left" />
+    <MESSAGE value="1 min interval added" />
+    <MESSAGE value="Dialog added for loop" />
+    <MESSAGE value="updated alarm type" />
+    <MESSAGE value="Checkbox dialog back" />
+    <MESSAGE value="2 min interval enabled" />
+    <MESSAGE value="Code refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code refactored" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1599854114350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1599854114350" />
+    <state x="200" y="96" key="#PSD" timestamp="1599852965996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1599852965996" />
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598300913696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598300913696" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1599131652489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599131652489" />
+    <state x="310" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597331939988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1597331939987" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598728788970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598728788970" />
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1598863246552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1598863246552" />
+    <state x="342" y="211" key="CommitChangelistDialog2" timestamp="1593265313240">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="342" y="211" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1593265313240" />
+    <state x="463" y="91" key="FileChooserDialogImpl" timestamp="1599854075376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="91" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599854075376" />
+    <state x="503" y="279" key="Github.CreateGistDialog" timestamp="1599854044980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="279" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1599854044980" />
+    <state x="540" y="257" key="Github.ShareDialog" timestamp="1599854099797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="540" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599854099797" />
+    <state width="1286" height="-27" key="GridCell.Tab.0.bottom" timestamp="1599854327465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="-27" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599854327465" />
+    <state width="1286" height="-27" key="GridCell.Tab.0.center" timestamp="1599854327464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="-27" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599854327464" />
+    <state width="1286" height="-27" key="GridCell.Tab.0.left" timestamp="1599854327464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="-27" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599854327464" />
+    <state width="1286" height="-27" key="GridCell.Tab.0.right" timestamp="1599854327465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="-27" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599854327465" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1599853841949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599853841949" />
+    <state x="330" y="351" key="Vcs.Push.Dialog.v2" timestamp="1593265315255">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="330" y="351" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1593265315255" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1598748955872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1598748955872" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599853575414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599853575414" />
+  </component>
+</project>

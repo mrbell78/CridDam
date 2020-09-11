@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513573222341",
+    "firebase_url": "https://criddam-14a72.firebaseio.com",
+    "project_id": "criddam-14a72",
+    "storage_bucket": "criddam-14a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513573222341:android:cecc954ba136d7a0007dac",
+        "android_client_info": {
+          "package_name": "com.criddam.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513573222341-c9qf30soh8hek6f9k19incok3kvlklu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_jAGtzyulGPf-cJKTTWyRWF8Ndh_KS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513573222341-c9qf30soh8hek6f9k19incok3kvlklu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

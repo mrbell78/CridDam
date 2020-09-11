@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:title="@string/add_menu" />
+        <item
+            android:id="@+id/nav_add_current_medicine"
+            android:title="@string/add_current_medicine" />
+        <item
+            android:id="@+id/nav_view_all_current_medicine"
+            android:title="@string/view_all_current_medicine" />
+        <item
+            android:id="@+id/nav_view_drug_interaction"
+            android:title="@string/view_drug_interaction" />
+        <item
+            android:id="@+id/nav_view_side_effect_of_drug"
+            android:title="@string/view_side_effect_of_drug" />
+        <item
+            android:id="@+id/nav_view_similarity_of_drug"
+            android:title="@string/view_similarity_of_drug" />
+        <item
+            android:id="@+id/nav_view_contraindication_of_drug"
+            android:title="@string/view_contraindication_of_drug" />
+        <item
+            android:id="@+id/nav_view_edit_profile"
+            android:title="@string/edit_profile" />
+        <item
+            android:id="@+id/Helthstatus"
+            android:title="@string/hstatus" />
+
+        <item
+            android:id="@+id/noteid"
+            android:title="@string/helthnote" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

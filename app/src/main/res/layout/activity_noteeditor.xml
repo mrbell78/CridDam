@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rubelportion.NoteeditorActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?android:attr/actionBarSize"
+        android:background="#4A5ECD"
+        android:id="@+id/toolbar"
+        style="@style/Theme.AppCompat.Light.DarkActionBar"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:gravity="center"
+        android:hint="your note here "
+        android:inputType="text"
+        android:layout_margin="5dp"
+        android:background="@drawable/roundededittexfor_note"
+        android:id="@+id/note_edit"/>
+
+</RelativeLayout>
